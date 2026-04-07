@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Fredoka', 'Inter', sans-serif;
+}
+
+body {
+    color: #2d3436;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 100vh;
+    padding-top: 5rem;
+}
+
+.container {
+    max-width: 900px;
+    width: 90%;
+    padding: 2rem;
+    text-align: center;
+}
+
+header {
+    margin-bottom: 3rem;
+}
+
+header h1 {
+    font-size: 3.5rem;
+    color: #2d3436;
+    margin-bottom: 0.5rem;
+}
+header p {
+    font-size: 1.2rem;
+    color: #636e72;
+    font-weight: 500;
+}
+
+.scoreboard {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.player-zone {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.player-zone h2 {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+    color: #2d3436;
+}
+
+.score-box {
+    font-size: 4rem;
+    font-weight: bold;
+    color: #0984e3;
+    background: #ffffff;
+    width: 120px;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.vs-badge {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: white;
+    background: linear-gradient(135deg, #e30606, #d6d5de);
+    padding: 1rem;
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
