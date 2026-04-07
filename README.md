@@ -2,6 +2,8 @@
 
 A modern, interactive Rock Paper Scissors game built with **React** and **Vite**.
 
+**🌐 Live Demo:** [https://r-p-s-xi.vercel.app](https://r-p-s-xi.vercel.app)
+
 ## ✨ Features
 - Play the classic Rock Paper Scissors game against a computer opponent.
 - Built with functional React components and hooks.
