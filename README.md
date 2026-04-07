@@ -1,16 +1,46 @@
-# React + Vite
+# Rock Paper Scissors 🎮
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, interactive Rock Paper Scissors game built with **React** and **Vite**.
 
-Currently, two official plugins are available:
+## ✨ Features
+- Play the classic Rock Paper Scissors game against a computer opponent.
+- Built with functional React components and hooks.
+- Fast and optimized build using Vite.
+- Responsive and modern UI.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Getting Started
 
-## React Compiler
+### Prerequisites
+Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Installation
 
-## Expanding the ESLint configuration
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/bhabani000-cpu/Rock_Papaer_Scissor.git
+   cd Rock_Papaer_Scissor
+   ```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+3. **Run the development server:**
+   ```bash
+   npm run dev
+   ```
+
+4. **Open in browser:**
+   Open [http://localhost:5173/](http://localhost:5173/) to view it in the browser.
+
+## 🛠️ Technology Stack
+- **React** - UI Library
+- **Vite** - Frontend Tooling / Bundler
+- **CSS** - Styling
+
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/bhabani000-cpu/Rock_Papaer_Scissor/issues).
+
+## 📝 License
+This project is open-source and available under the [MIT License](LICENSE).
